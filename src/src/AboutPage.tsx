@@ -13,7 +13,7 @@ export const AboutPage = () => {
 
           {/* Wide Image */}
           <div ref={image1.ref} className={`mb-6 transition-all duration-700 ease-out ${image1.inView ? 'opacity-100 translate-y-0 scale-100' : 'opacity-0 translate-y-5 scale-95'}`}>
-            <img src="https://drive.google.com/uc?export=view&id=1o9lftPmoLJkFzg1ewbo2oLkvjgs4d5Dx" alt="Owen Au research and analysis" className="w-full w-max-933 h-auto rounded-[15px] shadow-[2px_2px_2px_0px_rgba(0,89,173,0.50)]" />
+            <img src="https://drive.google.com/thumbnail?id=1o9lftPmoLJkFzg1ewbo2oLkvjgs4d5Dx&sz=w2000" alt="Owen Au research and analysis" className="w-full w-max-933 h-auto rounded-[15px] shadow-[2px_2px_2px_0px_rgba(0,89,173,0.50)]" />
           </div>
 
           <p className="text-sky-950 mb-6 leading-relaxed text-sm font-semibold font-['Inter']">
@@ -40,7 +40,7 @@ export const AboutPage = () => {
           </p>
 
           <div className="clearfix">
-            <img src="https://drive.google.com/uc?export=view&id=1r68SZvDswRemcIOj72RblB9xi9-c3frx" alt="Owen Au portrait" className="float-right w-48 ml-8 mb-4 h-auto rounded-[15px] shadow-[2px_2px_2px_0px_rgba(0,89,173,0.50)]" />
+            <img src="https://drive.google.com/thumbnail?id=1r68SZvDswRemcIOj72RblB9xi9-c3frx&sz=w2000" alt="Owen Au portrait" className="float-right w-48 ml-8 mb-4 h-auto rounded-[15px] shadow-[2px_2px_2px_0px_rgba(0,89,173,0.50)]" />
 
             <p className="text-sky-950 mb-6 leading-relaxed text-sm font-['Inter']">
               His work is widely published in policy journals and think tanks in

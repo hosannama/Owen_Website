@@ -154,7 +154,7 @@ const publications: Publication[] = [{
   publisher: "St. Antony's International Review, University of Oxford",
   date: '23 February 2025',
   category: 'Geopolitics and Security',
-  image: 'https://drive.google.com/uc?export=view&id=10o-C4RbdP3DaRfbRNPXczBe5l3lLCsUA',
+  image: 'https://drive.google.com/thumbnail?id=10o-C4RbdP3DaRfbRNPXczBe5l3lLCsUA&sz=w2000',
   excerpt: 'For decades, the UK has struggled to define its global role. The Labour government blames its Conservative predecessors for clinging to nostalgia and failing to recognise Britain’s diminished place in today’s world.',
   link: 'https://www.stairjournal.com/oped/2025/2/23/starmers-re-engagement-with-china-risks-diplomatic-isolation-of-britain'
 }, {

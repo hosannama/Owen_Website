@@ -136,7 +136,7 @@ export const HomePage = () => {
 
             {/* RIGHT: Image */}
             <div className="flex-1 flex justify-center">
-              <img src="https://drive.google.com/uc?export=view&id=1AfpiyD63ECrl3GfG0T4Bfa9DWSuQTI9a" alt="Owen Au" className="w-80 h-auto object-cover rounded-[15px] shadow-[2px_2px_2px_0px_rgba(0,89,173,0.50)]" />
+              <img src="https://drive.google.com/thumbnail?id=1AfpiyD63ECrl3GfG0T4Bfa9DWSuQTI9a&sz=w2000" alt="Owen Au" className="w-80 h-auto object-cover rounded-[15px] shadow-[2px_2px_2px_0px_rgba(0,89,173,0.50)]" />
             </div>
           </div>
         </div>

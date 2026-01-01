@@ -12,19 +12,19 @@ const mediaItems: MediaItem[] = [{
   headline: '大埔惡火燒出港府「災難性回應」　專家點出為何香港連中國都不如',
   outlet: 'SET News',
   date: '18 December 2025',
-  image: 'https://drive.google.com/uc?export=view&id=1dalDCALHRWfAURF5w4qVrakR1enrGpaQ',
+  image: 'https://drive.google.com/thumbnail?id=1dalDCALHRWfAURF5w4qVrakR1enrGpaQ&sz=w2000',
   link: 'https://www.setn.com/News.aspx?NewsID=1767639'
 }, {
   headline: '國際抨擊港府陷管治真空　李家超入選「2025年度暴君」投票',
   outlet: 'Pulse HK News',
   date: '15 December 2025',
-  image: 'https://drive.google.com/uc?export=view&id=14v5nC2F5R-sTdnI5z0Rf1J7pkY7qYcRU',
+  image: 'https://drive.google.com/thumbnail?id=14v5nC2F5R-sTdnI5z0Rf1J7pkY7qYcRU&sz=w2000',
   link: 'https://pulsehknews.com/tyrant-of-the-year/?fbclid=IwY2xjawO37tVleHRuA2FlbQIxMABzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEef922eOe8wZlQgGZdEKoqn3ET2DbmxpvC0oLCy3tgsu2QPo-m1ykKOYWacZQ_aem_Ib65Twr1hc6hgIaUmrRndg'
 }, {
   headline: '香港角色由國際金融中心 轉向服務中國進動「全球南方」議程',
   outlet: 'Photon Media',
   date: '7 August 2025',
-  image: 'https://drive.google.com/uc?export=view&id=1HM69Fnd1IrU1qiUJFTIOdm8XsmN-331o',
+  image: 'https://drive.google.com/thumbnail?id=1HM69Fnd1IrU1qiUJFTIOdm8XsmN-331o&sz=w2000',
   link: 'https://photonmedia.net/diplomat0807/'
 }];
 const MediaItemCard = ({
